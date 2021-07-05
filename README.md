@@ -18,6 +18,7 @@ $ sudo apt-get install ros-<<distro>>-tf2-geometry-msgs ros-<<distro>>-ackermann
 
 If your OS is ubuntu20.04 LTS and your ros distro is ros-noetic, you may fail when you install package 'serial' and the solution below:
 
+```
 $ cd $ros-rl-interface$
 
 $ cd src/serial
@@ -29,6 +30,7 @@ $ make test # build and run the tests
 $ make doc # build the documentation
 
 $ make install # install
+```
 
 reference:
 
