@@ -3,7 +3,7 @@
 ### ROS-RL Interface
 This is a light-weight interface for communicating between ros and your reinforcement learning algorithm
 
-### DEPENDENCIES
+### Dependencies
 If you have ros-<< distro >>-desktop-full installed, the additional dependencies you must install are:
 
 - tf2_geometry_msgs
@@ -35,7 +35,7 @@ Website: http://wjwwood.github.io/serial/
 
 Github:https://github.com/wjwwood/serial.git
 
-### INSTALLATION
+### Installation
 To install the simulator package, clone it into your catkin workspace:
 
 ```
