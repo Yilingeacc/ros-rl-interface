@@ -1,0 +1,8 @@
+prefix=/home/yqshi/catkin_ws/devel
+
+Name: rl_msgs
+Description: Description of rl_msgs
+Version: 0.0.0
+Cflags: -I/home/yqshi/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_generation roscpp rospy std_msgs message_runtime

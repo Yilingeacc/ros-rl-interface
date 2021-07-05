@@ -1,0 +1,9 @@
+rostopic pub -1 /env_description rl_msgs/EnvDescription "title: 'test'           
+action_dims: 2
+state_dims: 3
+min_state_range: [-10.0, -10.0, -3.14159]
+max_state_range: [10.0, 10.0, 3.14159]
+min_action_range: [-0.3, -1.0]
+max_action_range: [0.3, 1.0]
+reward_range: [-1.0, 1.0]
+max_episode_len: 256"

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/serial_example.dir/examples/serial_example.cc.o  -o /home/yqshi/catkin_ws/devel/lib/serial/serial_example  -Wl,-rpath,/home/yqshi/catkin_ws/devel/lib /home/yqshi/catkin_ws/devel/lib/libserial.so -lrt -lpthread 

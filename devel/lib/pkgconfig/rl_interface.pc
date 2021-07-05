@@ -1,0 +1,8 @@
+prefix=/home/yqshi/catkin_ws/devel
+
+Name: rl_interface
+Description: Description of rl_interface
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
