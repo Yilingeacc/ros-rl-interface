@@ -4,7 +4,7 @@
 This is a light-weight interface for communicating between ros and your reinforcement learning algorithm
 
 ### DEPENDENCIES
-If you have ros-<<distro>>-desktop-full installed, the additional dependencies you must install are:
+If you have ros-<< distro >>-desktop-full installed, the additional dependencies you must install are:
 
 - tf2_geometry_msgs
 - ackermann_msgs
