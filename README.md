@@ -43,7 +43,7 @@ $ cd ~/catkin_ws/src
 $ git clone https://github.com/yaqishi/ros-rl-interface.git
 ```
 
-Then run '''catkin_make''' to build it:
+Then run 'catkin_make' to build it:
 
 ```
 $ cd ~/catkin_ws
@@ -89,7 +89,7 @@ With the simulator running, open rviz:
 $ rosrun rviz rviz
 ```
 
-In the left panel at the bottom click the "Add" button, then in the "By topic" tab add the ```/map``` topic and the ```/scan``` topic.
+In the left panel at the bottom click the "Add" button, then in the "By topic" tab add the `/map` topic and the `/scan` topic.
 
 Then in the "By display type" tab add the RobotModel type.
 
