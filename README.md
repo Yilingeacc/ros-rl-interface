@@ -58,7 +58,7 @@ $ roslaunch racecar_simulator rl_simulate.launch
 
 This will launch everything you need for a full simulation; roscore, the simulator, a preselected map, a model of the racecar and the joystick server.
 
-You can change the map by modifying racecar_simulator/launch/rl_simulate.launch line 6:
+You can change the map by modifying racecar_simulator/launch/rl_simulate.launch@line 6:
 
   <arg name="map" default="YOUR_MAP_PATH"/>
   
