@@ -100,6 +100,6 @@ You may see an error when roslaunch such as below:
 
 [ERROR] [1625465742.456218650]: Couldn't open joystick /dev/input/js0. Will retry every second.
 
-but that's ok. The error occurs when there's no joy found.
+but that's ok. The error occurs when there's no joystick connected.
 
 You can use a USB joystick to drive the car around, or you can place the car manually by clicking the "2D Pose Estimate button" on the top of the screen and dragging your mouse on the desired pose.
